@@ -23,7 +23,6 @@ namespace jacdac {
                 if (!isNaN(options.maxAngle)) this.maxAngle = options.maxAngle
             }
             this.angle = Math.round((this.maxAngle - this.minAngle) / 2)
-            this.sync()
         }
 
         handlePacket(pkt: jacdac.JDPacket) {
