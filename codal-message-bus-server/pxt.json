@@ -21,7 +21,7 @@
     ],
     "dependencies": {
         "core": "*",
-        "jacdac": "github:microsoft/pxt-jacdac",
-        "jacdac-codal-message-bus": "github:microsoft/pxt-jacdac/codal-message-bus"
+        "jacdac": "github:ross-inksmith/pxt-jacdac",
+        "jacdac-codal-message-bus": "github:ross-inksmith/pxt-jacdac/codal-message-bus"
     }
 }
